@@ -20,11 +20,11 @@ Vi använder en dictionary för att enkelt kunna hitta information om klassrumme
 Det gör att vi kan hålla ordning på flera klassrum och deras tillgängliga datum på ett strukturerat sätt.
 """
 klassrum = {
-    1:Classrom(bokningsnummer=1, name="C201", date={"2024-11-4": "available", "2024-11-5": "available", "2024-11-6": "available", "2024-11-7": "available", "2024-11-8": "available"}),
-    2:Classrom(bokningsnummer=2, name="C202", date={"2024-11-4": "available", "2024-11-5": "available", "2024-11-6": "available", "2024-11-7": "available", "2024-11-8": "available"}),
-    3:Classrom(bokningsnummer=3, name="C203", date={"2024-11-4": "available", "2024-11-5": "available", "2024-11-6": "available", "2024-11-7": "available", "2024-11-8": "available"}),
-    4:Classrom(bokningsnummer=4, name="C204", date={"2024-11-4": "available", "2024-11-5": "available", "2024-11-6": "available", "2024-11-7": "available", "2024-11-8": "available"}),
-    5:Classrom(bokningsnummer=5, name="C205", date={"2024-11-4": "available", "2024-11-5": "available", "2024-11-6": "available", "2024-11-7": "available", "2024-11-8": "available"}),
+    1:Classrom(bokningsnummer=1, name="C201", date={"2024-11-04": "available", "2024-11-05": "available", "2024-11-06": "available", "2024-11-07": "available", "2024-11-08": "available"}),
+    2:Classrom(bokningsnummer=2, name="C202", date={"2024-11-04": "available", "2024-11-05": "available", "2024-11-06": "available", "2024-11-07": "available", "2024-11-08": "available"}),
+    3:Classrom(bokningsnummer=3, name="C203", date={"2024-11-04": "available", "2024-11-05": "available", "2024-11-06": "available", "2024-11-07": "available", "2024-11-08": "available"}),
+    4:Classrom(bokningsnummer=4, name="C204", date={"2024-11-04": "available", "2024-11-05": "available", "2024-11-06": "available", "2024-11-07": "available", "2024-11-08": "available"}),
+    5:Classrom(bokningsnummer=5, name="C205", date={"2024-11-04": "available", "2024-11-05": "available", "2024-11-06": "available", "2024-11-07": "available", "2024-11-08": "available"}),
 
 }
 
